@@ -1,5 +1,5 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=tokyonight&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
 </p>
 
 ## 🧿 **About Me**
