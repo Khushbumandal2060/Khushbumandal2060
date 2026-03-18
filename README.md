@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Web Development & Artificial Intelligence**</br>
 </p>
 
+<hr>
 ##🌐 **Connect With Me**
 
 <p>
@@ -16,6 +17,7 @@
 <a href="mailto:khusbumandal2060@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff6b81?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<hr>
 ##💻 **Tech Stack**
 
 <p>
@@ -40,6 +42,7 @@
 
 </p>
 
+<hr>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&theme=tokyonight" />
 </p>
