@@ -1,14 +1,14 @@
 
 <p>
-  <img src="https://profile-counter.glitch.me/khushbumandal2060/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6c5ce7&style=for-the-badge" />
 </p>
 
-🧿 About Me:
+##🧿 **About Me**
 <p>
 - 🌱 I’m currently learning **Web Development & Artificial Intelligence**</br>
 </p>
 
-🌐 Connect With Me:
+##🌐 **Connect With Me**
 
 <p>
 <a href="https://www.instagram.com/khushbumandal15"><img src="https://img.shields.io/badge/Instagram-ff4da6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 <a href="mailto:khusbumandal2060@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff6b81?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-💻 Tech Stack:
+##💻 **Tech Stack**
 
 <p>
 
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbumandal2060&theme=tokyonight&layout=compact" />
 </p>
 
-✍️ Tech Quote
+##✍️ **Tech Quote**
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
