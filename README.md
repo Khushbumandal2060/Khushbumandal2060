@@ -31,6 +31,10 @@
 
 <p>
 
+## 💻 **Tech Stack**
+
+<p>
+
 <img src="https://img.shields.io/badge/Java-ff6b81?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ffb347?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-ff7675?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,12 +48,18 @@
 <img src="https://img.shields.io/badge/Next.js-2d3436?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-ec6813?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MongoDB-00b894?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-0984e3?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TensorFlow-ff9f43?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-ff4757?style=for-the-badge&logo=keras&logoColor=white"/>
 
+</p>
 </p>
 
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
