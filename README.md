@@ -4,10 +4,8 @@
 
 ## 👩‍💻 **About Me**
 <p>
-- 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br>
+- 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br> 
 </p>
-
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
 
 ## 🌐 **Connect With Me**
 
@@ -24,8 +22,6 @@
 <img src="https://img.shields.io/badge/Gmail-ff6b81?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
 
 ## 💻 **Tech Stack**
 
@@ -57,9 +53,6 @@
 <img src="https://img.shields.io/badge/Keras-ff4757?style=for-the-badge&logo=keras&logoColor=white"/>
 
 </p>
-</p>
-
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
 
 ## 📊 **GitHub Stats**
 
@@ -74,8 +67,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbumandal2060&theme=tokyonight&layout=compact" />
 </p>
-
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
 
 ## ✍️ **Tech Quote**
 
