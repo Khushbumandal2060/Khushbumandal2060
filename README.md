@@ -31,10 +31,6 @@
 
 <p>
 
-## 💻 **Tech Stack**
-
-<p>
-
 <img src="https://img.shields.io/badge/Java-ff6b81?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-ffb347?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-ff7675?style=for-the-badge&logo=html5&logoColor=white"/>
