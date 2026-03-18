@@ -1,22 +1,68 @@
-<h1>Hi 👋, I'm Khushbu</h1>
-<p>A passionate frontend developer from Nepal</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in//khushbu-mandal-99637b343" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/khushbumandal15" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&show_icons=true&locale=en" alt="khushbumandal2060" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&" alt="khushbumandal2060" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbumandal2060&show_icons=true&locale=en&layout=compact" alt="khushbumandal2060" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060" alt="khushbumandal2060" /></a></p>
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/khushbumandal2060/count.svg" />
+</p>
+
+---
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushbu-mandal-99637b343" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushbu-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/khushbumandal15" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@khushbumandal15-pink?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-📧-orange?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <!-- Row 1: Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,python" alt="Languages" width="50" height="50" title="Programming Languages" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Web" width="50" height="50" title="HTML/CSS" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" width="50" height="50" title="Databases" />
+</p>
+
+<p align="center">
+  <!-- Row 2: Frameworks / Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,next,node,express,flask,django,bootstrap,tailwind" alt="Frameworks" width="50" height="50" title="Frameworks & Libraries" /> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,numpy" alt="AI/ML" width="50" height="50" title="AI/ML Tools" />
+</p>
+
+<p align="center">
+  <!-- Row 3: Cloud / Others -->
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloud" width="50" height="50" title="Cloud Services" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=radical" />
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbumandal2060&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### ✨ Tech Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=coding" alt="Daily Tech Quote"/>
+</p>
