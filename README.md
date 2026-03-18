@@ -1,8 +1,8 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
 
-## 🧿 **About Me**
+## 👩‍💻 **About Me**
 <p>
 - 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br>
 </p>
@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/Node.js-55efc4?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
 <img src="https://img.shields.io/badge/TailwindCSS-81ecec?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-2d3436?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MongoDB-00b894?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-0984e3?style=for-the-badge&logo=mysql&logoColor=white"/>
