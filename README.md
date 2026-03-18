@@ -1,24 +1,33 @@
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6c5ce7&style=for-the-badge" />
 </p>
 
-##🧿 **About Me**
+## 🧿 **About Me**
 <p>
-- 🌱 I’m currently learning **Web Development & Artificial Intelligence**</br>
+- 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br>
 </p>
 
-<hr>
-##🌐 **Connect With Me**
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
+
+## 🌐 **Connect With Me**
 
 <p>
-<a href="https://www.instagram.com/khushbumandal15"><img src="https://img.shields.io/badge/Instagram-ff4da6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/khushbu-mandal-99637b343"><img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:khusbumandal2060@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff6b81?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/khushbumandal15">
+<img src="https://img.shields.io/badge/Instagram-ff4da6?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khushbu-kumari-mandal-99637b343/">
+<img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:khusbumandal2060@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ff6b81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<hr>
-##💻 **Tech Stack**
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
+
+## 💻 **Tech Stack**
 
 <p>
 
@@ -42,7 +51,10 @@
 
 </p>
 
-<hr>
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
+
+## 📊 **GitHub Stats**
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&theme=tokyonight" />
 </p>
@@ -55,7 +67,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbumandal2060&theme=tokyonight&layout=compact" />
 </p>
 
-##✍️ **Tech Quote**
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #6c5ce7, transparent);">
+
+## ✍️ **Tech Quote**
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
