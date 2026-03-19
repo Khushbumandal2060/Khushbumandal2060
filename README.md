@@ -1,10 +1,8 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
-## 🏆 **GitHub Achievements**
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=flat&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ## 👩‍💻 **About Me**
