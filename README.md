@@ -54,20 +54,6 @@
 
 </p>
 
-## 📊 **GitHub Stats**
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbumandal2060&theme=tokyonight&layout=compact" />
-</p>
-
 ## 📈 **GitHub Activity & Stats**
 
 <p>
