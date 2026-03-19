@@ -1,7 +1,9 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
-![Trophy](https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight" width="100%"/>
+</p>
 
 ## 👩‍💻 **About Me**
 <p>
