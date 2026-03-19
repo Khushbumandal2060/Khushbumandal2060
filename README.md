@@ -2,17 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
 
-
-## 🔥 **Contribution Details**
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=tokyonight" />
-</p>
-
 ## 👩‍💻 **About Me**
 <p>
 - 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br> 
