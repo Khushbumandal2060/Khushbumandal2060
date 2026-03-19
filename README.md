@@ -59,17 +59,28 @@
 <p>
   <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+</p>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=tokyonight" alt="GitHub Streak" />
-
+<p>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbumandal2060&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
+</p>
 
+<p>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p>
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight" alt="GitHub Trophies" />
   </a>
+</p>
+
+<p align="center">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushbumandal2060&theme=tokyonight" />
 </p>
 
 <p>
