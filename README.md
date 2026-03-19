@@ -2,6 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
 
+## 🏆 **GitHub Trophies**
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight&row=1&column=6" />
+</p>
+
 ## 👩‍💻 **About Me**
 <p>
 - 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br> 
