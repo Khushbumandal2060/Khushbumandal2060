@@ -56,7 +56,7 @@
 
 ## 📈 **GitHub Activity & Stats**
 
-<p align="center">
+<p>
   <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 
