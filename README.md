@@ -3,8 +3,8 @@
 </p>
 ## 🏆 **GitHub Achievements**
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushbumandal2060&theme=tokyonight" />
 </p>
 
 ## 👩‍💻 **About Me**
