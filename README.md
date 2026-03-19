@@ -4,7 +4,7 @@
 ## 🏆 **GitHub Achievements**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushbumandal2060&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=flat&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ## 👩‍💻 **About Me**
