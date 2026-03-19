@@ -1,10 +1,23 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
- <!-- GitHub Trophies -->
+## 📊 **GitHub Stats & Achievements**
+
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=khushbumandal2060&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbumandal2060&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
+
+  <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight" alt="GitHub Trophies" />
   </a>
+</p>
 
 ## 👩‍💻 **About Me**
 <p>
