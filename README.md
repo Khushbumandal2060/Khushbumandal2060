@@ -2,20 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=khushbumandal2060&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
 </p>
 
-## 📈 **GitHub Activity & Stats**
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushbumandal2060&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushbumandal2060&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushbumandal2060&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushbumandal2060&theme=tokyonight" />
-</p>
 
 ## 🔥 **Contribution Details**
 
@@ -25,13 +11,6 @@
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumandal2060&theme=tokyonight" />
-</p>
-## 🌟 **GitHub Info**
-
-<p>
-  <img src="https://img.shields.io/github/followers/khushbumandal2060?label=Followers&style=for-the-badge&color=6A5ACD" />
-  <img src="https://img.shields.io/github/stars/khushbumandal2060?affiliations=OWNER&style=for-the-badge&color=ffb347" />
-  <img src="https://img.shields.io/github/repos/khushbumandal2060?style=for-the-badge&color=blueviolet" />
 </p>
 
 ## 👩‍💻 **About Me**
@@ -98,6 +77,21 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbumandal2060&theme=tokyonight&layout=compact" />
+</p>
+
+## 📈 **GitHub Activity & Stats**
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushbumandal2060&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushbumandal2060&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushbumandal2060&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khushbumandal2060&theme=tokyonight" />
 </p>
 
 ## ✍️ **Tech Quote**
