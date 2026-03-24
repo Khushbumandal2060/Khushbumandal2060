@@ -51,6 +51,8 @@
 
 <img src="https://img.shields.io/badge/TensorFlow-ff9f43?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-ff4757?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-8892be?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 </p>
 
