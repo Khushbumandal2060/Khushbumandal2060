@@ -8,7 +8,7 @@
     - 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br>
 </p>
 
-## 🌐 **Connect With Me**
+## 🌐 **Socials**
 <p>
     <a href="https://www.instagram.com/khushbumandal15" target="_blank" style="display:inline-block; margin:0 1px;">
         <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
@@ -21,7 +21,8 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
 </p>
-## 💻 Tech Stack:
+## 💻 **Tech Stack**
+
 <p>
     <img src="https://img.shields.io/badge/Java-F20000?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
