@@ -94,7 +94,8 @@
         alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
 <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="display:inline-block; margin:2px;">
         <img src="https://github-profile-trophy.vercel.app/?username=khushbumandal2060&theme=tokyonight&row=1&column=5"
