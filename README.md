@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
 </p>
-## 💻 Tech Stack
+## 💻 **Tech Stack**
 <p>
     <img src="https://img.shields.io/badge/Java-F20000?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
