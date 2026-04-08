@@ -9,18 +9,18 @@
 </p>
 
 ## 🌐 **Connect With Me**
-<p>
-    <a href="https://www.instagram.com/khushbumandal15" target="_blank" style="display:inline-block; margin:0 2px;">
-        <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+p>
+    <a href="https://www.instagram.com/khushbumandal15" target="_blank" style="display:inline-block; margin:0 1px;">
+        <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/khushbu-kumari-mandal-99637b343/" target="_blank" style="display:inline-block; margin:0 2px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/khushbu-kumari-mandal-99637b343/" target="_blank"
+        style="display:inline-block; margin:0 1px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:khusbumandal2060@gmail.com" target="_blank" style="display:inline-block; margin:0 2px;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:khusbumandal2060@gmail.com" target="_blank" style="display:inline-block; margin:0 1px;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
 </p>
-
 ## 💻 **Tech Stack**
 <p>
     <img src="https://img.shields.io/badge/Java-F20000?style=for-the-badge&logo=openjdk&logoColor=white" />
