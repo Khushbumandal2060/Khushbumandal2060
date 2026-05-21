@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/khushbumandal15" target="_blank" style="display:inline-block; margin:0 1px;">
         <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/khushbu-kumari-mandal-99637b343/" target="_blank"
+    <a href="https://www.linkedin.com/in/khushbu-kumari-mandal/" target="_blank"
         style="display:inline-block; margin:0 1px;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
