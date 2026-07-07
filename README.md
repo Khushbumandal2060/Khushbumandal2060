@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 <p>
-    - 🌱 I’m currently learning <b>Web Development & Artificial Intelligence</b><br>
+    - 🌱 I’m currently learning <b>Web Development </b><br>
 </p>
 
 ## 🌐 Socials:
